@@ -4,8 +4,8 @@ meteor-autosize
 Ever wondered how to make autoresizable Facebook-style textarea inputs? Autosize is a small, stand-alone script to automatically adjust (resize) textarea height to fit text.
 Repackaged for Meteor.
 
-![alt tag](img/ScreenShot1.png)
-![alt tag](img/ScreenShot2.png)
+![alt tag](./img/ScreenShot1.png =420x)
+![alt tag](./img/ScreenShot2.png =420x)
 
 ## Installation
 
