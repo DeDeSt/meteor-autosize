@@ -1,12 +1,13 @@
 Package.describe({
+  name: 'verron:autosize',
   summary: 'Automatically adjust textarea height based on user input.',
-  version: '1.17.8',
-  git: "https://github.com/copleykj/jquery-autosize.git"
+  version: '3.0.8',
+  git: "https://github.com/DeDeSt/meteor-autosize.git",
+  documentation: 'README.md'
 });
 
 Package.on_use(function (api) {
   api.versionsFrom("METEOR@0.9.0");
   api.use('jquery', 'client');
-  api.add_files(['lib/jquery.autosize.js'], 'client');
-  
+  api.add_files(['lib/autosize.js'], 'client');
 });
