@@ -1,7 +1,7 @@
 meteor-autosize
 ======================
 
-Autosize is a small, stand-alone script to automatically adjust textarea height to fit text. Repackaged for Meteor.
+Autosize is a small, stand-alone script to automatically adjust (resize) textarea height to fit text. Repackaged for Meteor.
 
 ## Installation
 

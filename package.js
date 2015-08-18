@@ -8,6 +8,5 @@ Package.describe({
 
 Package.on_use(function (api) {
   api.versionsFrom("METEOR@0.9.0");
-  api.use('jquery', 'client');
   api.add_files(['lib/autosize.js'], 'client');
 });
