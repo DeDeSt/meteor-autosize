@@ -9,7 +9,7 @@ Repackaged for Meteor.
 
 ## Installation
 
-`meteor add v3rron:autosize`
+`meteor add verron:autosize`
 
 ## Example
 
