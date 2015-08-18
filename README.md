@@ -20,6 +20,13 @@ autosize(document.querySelector('textarea'));
 autosize($('textarea'));
 ````
 
+#### Browser compatibility
+
+Chrome | Firefox | IE | Safari | iOS Safari | Android | Opera Mini | Windows Phone IE
+------ | --------|----|--------|------------|---------|------------|------------------
+yes    | yes     | 9  | yes    | yes        | 4       | ?          | 8.1
+
+
 ## Documentation and Demo
 
 http://www.jacklmoore.com/autosize/
