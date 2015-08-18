@@ -37,4 +37,4 @@ https://github.com/jackmoore/autosize/
 
 #### Author
 
-The Meteor repackage was created by Spendflow, updated by Kelly Copley (@copleykj) for the new 0.9.0 packaging system and updated to v3 (pure javascript version) by Ronen Verdi (@v3rron).
+The Meteor repackage was created by Spendflow, updated by Kelly Copley (@copleykj) for the new 0.9.0 packaging system and updated to v3 (pure javascript version) by Ronen Verdi ([@v3rron](https://github.com/v3rron)).
