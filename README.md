@@ -27,14 +27,14 @@ Chrome | Firefox | IE | Safari | iOS Safari | Android | Opera Mini | Windows Pho
 yes    | yes     | 9  | yes    | yes        | 4       | ?          | 8.1
 
 
-## Documentation and Demo
+#### Documentation and Demo
 
 http://www.jacklmoore.com/autosize/
 
-## Original package
+#### Original package
 
 https://github.com/jackmoore/autosize/
 
-## Author
+#### Author
 
 The Meteor repackage was created by Spendflow, updated by Kelly Copley (@copleykj) for the new 0.9.0 packaging system and updated to v3 (pure javascript version) by Ronen Verdi (@v3rron).
